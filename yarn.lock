@@ -2286,9 +2286,9 @@ negotiator@0.4.9:
   version "0.4.9"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.4.9.tgz#92e46b6db53c7e421ed64a2bc94f08be7630df3f"
 
-netmask@^1.0.5:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/netmask/-/netmask-1.0.6.tgz#20297e89d86f6f6400f250d9f4f6b4c1945fcd35"
+netmask@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/netmask/-/netmask-2.0.1.tgz#5a5cbdcbb7b6de650870e15e83d3e9553a414cf4"
 
 nock@^4.0.0:
   version "4.1.0"
